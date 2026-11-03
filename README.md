@@ -9,7 +9,7 @@
 ![size: ~21 KB](https://img.shields.io/badge/size-~21%20KB-informational)
 ![license: MIT](https://img.shields.io/badge/license-MIT-orange)
 
-[**Live demo**](https://YOUR-USERNAME.github.io/ascii-blackhole/) · [Quick start](#quick-start) · [Controls](#controls) · [Options](#options) · [How it works](#how-it-works)
+[**Live demo**](https://prithviraj5004.github.io/Ascii-Horizon/) · [Quick start](#quick-start) · [Controls](#controls) · [Options](#options) · [How it works](#how-it-works)
 
 <img src="docs/preview.gif" alt="An ASCII black hole follows the mouse, eats the letters around it, then grows and shrinks as the page is scrolled" width="720">
 
