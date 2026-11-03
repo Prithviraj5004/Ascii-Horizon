@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ASCII Black Hole</title>
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Martian+Mono:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <meta name="description" content="A black hole made of text. It follows your mouse, eats the letters in its path, and grows or shrinks as you scroll. Plain JavaScript, zero dependencies.">
+
+  <!-- Link preview (LinkedIn, X, Slack...). After you publish, replace YOUR-USERNAME and add docs/social-preview.png -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="ASCII Black Hole">
+  <meta property="og:description" content="A black hole made of text. It follows your mouse, eats the letters in its path, and grows or shrinks as you scroll.">
+  <meta property="og:image" content="https://YOUR-USERNAME.github.io/ascii-blackhole/docs/social-preview.png">
+  <meta name="twitter:card" content="summary_large_image">
+  
+
+  <style>html, body { margin: 0; background: #03040a; }</style>
+
+  <!-- optional settings, must come BEFORE the script. Every option is listed in the README. -->
+  <script>
+    window.ASCII_BLACKHOLE = {
+      // text: 'your own words here',
+      // scrollDistance: 2,
+      // maxSize: 0.46
+    };
+  </script>
+
+  <!-- the black hole itself: a plain script tag -->
+  <script src="ascii-blackhole.js"></script>
+</head>
+<body>
+  <noscript style="color:#9aa6c4;font:16px monospace;padding:2em;display:block">This page needs JavaScript to draw the black hole.</noscript>
+</body>
+</html>
