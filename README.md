@@ -140,4 +140,4 @@ Inspired by [SiddDevZ/horizon](https://github.com/SiddDevZ/horizon), a WebGL 2 r
 
 ## License
 
-[MIT](LICENSE) © YOUR NAME
+[MIT](LICENSE) © Prithviraj Salunke
